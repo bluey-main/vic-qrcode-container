@@ -17,8 +17,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/qr-code-component-gH_7W661kC]
+- Live Site URL: [https://vic-qrcode-container.netlify.app/]
 
 ## My process
 - I startecd by aligning my HTML content in their specific order
